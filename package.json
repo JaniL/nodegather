@@ -1,0 +1,22 @@
+{
+  "name": "nodegather",
+  "version": "0.0.0",
+  "description": "Pickup IRC Bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/janil/nodegather"
+  },
+  "author": "Jani Luukko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/janil/nodegather/issues"
+  },
+  "homepage": "https://github.com/janil/nodegather",
+  "dependencies": {
+    "irc": "^0.3.6",
+  }
+}
